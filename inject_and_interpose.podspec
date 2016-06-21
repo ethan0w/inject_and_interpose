@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
   s.name         = "inject_and_interpose"
   s.version      = "0.0.1"
   s.summary      = "like mach_inject"
-
+  s.author       = { "comex"}
+  
   s.description  = <<-DESC
                    inject_and_interpose
                    DESC
