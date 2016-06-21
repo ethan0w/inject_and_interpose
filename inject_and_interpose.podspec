@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/comex/inject_and_interpose"
   s.license      = "MIT"
   s.source       = { :git => "https://github.com/comex/inject_and_interpose.git" }
-  s.source_files  = "*.{h,c}"
+  s.source_files  = "interpose.{h,c}"
 
 end
